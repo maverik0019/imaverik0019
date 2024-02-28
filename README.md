@@ -6,8 +6,10 @@ GitHub Profile README
 - 🤝 I'm looking to collaborate on Data Analyst Projects.
 - 🌍 I'm looking for help with environmental data problems.
 - ❓ Ask me about Environmental Events to Python: Paving the Path in Data Analysis Since 2009.
-🌱 About Me
 
+  
+
+🌱 About Me
 I am a passionate data analyst with a special focus on the intersection between environmental events and technology since 2009. My journey began with a deep curiosity to understand how environmental data can influence and enhance our decisions in daily and professional life. Over the years, I have gained solid expertise in Python, specializing in data analysis to translate complex environmental data sets into actionable insights and sustainable solutions.
 
 🌐 Current Learning

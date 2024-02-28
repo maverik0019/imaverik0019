@@ -7,6 +7,5 @@ GitHub Profile README
 - ❓ Ask me about Environmental Events to Python: Paving the Path in Data Analysis Since 2009.
 
   https://www.datacamp.com/portfolio/imaveri
-* How to reach me:
-Pronouns:
+
 ..

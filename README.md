@@ -6,6 +6,6 @@ GitHub Profile README
 - 🌍 I'm looking for help with environmental data problems.
 - ❓ Ask me about Environmental Events to Python: Paving the Path in Data Analysis Since 2009.
 
-  https://www.datacamp.com/portfolio/imaveri
+   https://www.datacamp.com/portfolio/imaveri
 
 ..
